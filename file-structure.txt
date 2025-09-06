@@ -1,0 +1,146 @@
+├── .filetreeignore
+├── .next
+  ├── app-build-manifest.json
+  ├── build
+    └── chunks
+  ├── build-manifest.json
+  ├── cache
+    ├── .rscinfo
+    └── chrome-devtools-workspace-uuid
+  ├── fallback-build-manifest.json
+  ├── package.json
+  ├── postcss.js
+  ├── postcss.js.map
+  ├── prerender-manifest.json
+  ├── routes-manifest.json
+  ├── server
+    ├── app
+      ├── auth
+        ├── page
+          ├── app-build-manifest.json
+          ├── app-paths-manifest.json
+          ├── build-manifest.json
+          ├── next-font-manifest.json
+          ├── react-loadable-manifest.json
+          └── server-reference-manifest.json
+        ├── page.js
+        ├── page.js.map
+      ├── community
+        ├── page
+          ├── app-build-manifest.json
+          ├── app-paths-manifest.json
+          ├── build-manifest.json
+          ├── next-font-manifest.json
+          ├── react-loadable-manifest.json
+          └── server-reference-manifest.json
+        ├── page.js
+        ├── page.js.map
+        └── post
+          └── [id]
+            ├── page
+              ├── app-build-manifest.json
+              ├── app-paths-manifest.json
+              ├── build-manifest.json
+              ├── next-font-manifest.json
+              ├── react-loadable-manifest.json
+              └── server-reference-manifest.json
+            ├── page.js
+            ├── page.js.map
+      ├── favicon.ico
+        ├── route
+          ├── app-build-manifest.json
+          ├── app-paths-manifest.json
+          └── build-manifest.json
+        ├── route.js
+        └── route.js.map
+      ├── page
+        ├── app-build-manifest.json
+        ├── app-paths-manifest.json
+        ├── build-manifest.json
+        ├── next-font-manifest.json
+        ├── react-loadable-manifest.json
+        └── server-reference-manifest.json
+      ├── page.js
+      ├── page.js.map
+      ├── signup
+        ├── page
+          ├── app-build-manifest.json
+          ├── app-paths-manifest.json
+          ├── build-manifest.json
+          ├── next-font-manifest.json
+          ├── react-loadable-manifest.json
+          └── server-reference-manifest.json
+        ├── page.js
+        ├── page.js.map
+    ├── app-paths-manifest.json
+    ├── chunks
+      ├── ssr
+    ├── interception-route-rewrite-manifest.js
+    ├── middleware-build-manifest.js
+    ├── middleware-manifest.json
+    ├── next-font-manifest.js
+    ├── next-font-manifest.json
+    ├── pages
+    ├── pages-manifest.json
+    ├── server-reference-manifest.js
+    └── server-reference-manifest.json
+  ├── static
+    ├── chunks
+      ├── pages
+    ├── development
+    └── media
+      ├── 8ee3a1ba4ed5baee-s.p.be19f591.woff2
+      ├── 942c7eecbf9bc714-s.cb6bbcb1.woff2
+      ├── 973faccb4f6aedb5-s.b7d310ad.woff2
+      ├── b0a57561b6cb5495-s.p.da1ebef7.woff2
+      ├── d26cc22533d232c7-s.81df3a5b.woff2
+      ├── e5e2a9f48cda0a81-s.e32db976.woff2
+      └── favicon.45db1c09.ico
+  ├── trace
+  └── types
+├── client.js
+├── eslint.config.mjs
+├── LICENSE
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+  ├── file.svg
+  ├── globe.svg
+  ├── next.svg
+  ├── vercel.svg
+  ├── Week 9 Final Project .gif
+  └── window.svg
+├── README.md
+├── src
+  └── app
+    ├── community
+      ├── page.tsx
+      └── post
+        └── [id]
+          └── page.tsx
+    ├── components
+      ├── Calender.tsx
+      ├── community
+        ├── PostBar.tsx
+        ├── PostCard.tsx
+        ├── PostsSection.tsx
+        └── UserSection.tsx
+      └── NavBar.tsx
+    ├── globals.css
+    ├── layout.tsx
+    ├── lib
+      └── supabaseClient.ts
+    ├── page.tsx
+    ├── signup
+      └── page.tsx
+    └── utils
+      ├── fetchPosts.ts
+      ├── postActions.ts
+      ├── profileUtils.ts
+      ├── supabase-client.ts
+      ├── supabase-server.ts
+      └── timeUtils.ts
+└── tsconfig.json
